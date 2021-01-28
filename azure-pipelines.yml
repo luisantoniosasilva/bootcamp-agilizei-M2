@@ -15,7 +15,7 @@ steps:
     versionSpec: '12.x'
   displayName: 'Install Node.js'
 
-- script: nom ci
+- script: npm ci
   displayName: 'npm install'
 
 - script: npm run cy:run:electron
