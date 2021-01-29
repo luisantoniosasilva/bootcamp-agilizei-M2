@@ -3,3 +3,4 @@ node_modules
 # cypress
 cypress/vídeos
 cypress/screenshots
+cypress/reports
