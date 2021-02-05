@@ -4,6 +4,13 @@ Você também pode estar localizando este bootcamp através da página oficial h
 
 ## [Azure Pipeline](https://dev.azure.com/luisantoniosasilva/bootcamp-agilizei-M2/_build/results?buildId=7&view=ms.vss-test-web.build-test-results-tab)
 
+## Cenários
+- ###### Cadastro
+![](https://github.com/luisantoniosasilva/bootcamp-agilizei-M2/blob/main/cypress/gifs/cadastro.spec.js_1.gif?raw=true)
+- ###### Login
+![](https://github.com/luisantoniosasilva/bootcamp-agilizei-M2/blob/main/cypress/gifs/login.spec.js_1.gif?raw=true)
+- ###### Novo Artigo
+![](https://github.com/luisantoniosasilva/bootcamp-agilizei-M2/blob/main/cypress/gifs/articles.spec.js.gif?raw=true)
 
 ## Tecnologias utilizadas
  - [Visual Studio Code 1.52.1](https://code.visualstudio.com)
