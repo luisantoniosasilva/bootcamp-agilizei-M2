@@ -12,5 +12,6 @@ context('Publicação', () => {
         articles.preencherFormulario()
         articles.submeterPublicacao()
         articles.verificarSeAPublicacaoFoiCriadaComSucesso()
+        articles.verificarElementosEmTela()
     });
 });

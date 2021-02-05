@@ -3,6 +3,7 @@
     "baseUrl": "http://demo.realworld.io/#/",
     "apiUrl": "https://conduit.productionready.io/api/",
     "user": {
+        "name": "Opal Abshire",
         "email": "ned.pfannerstill@gmail.com",
         "password": "12345678"
     },

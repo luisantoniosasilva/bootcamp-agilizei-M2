@@ -1,7 +1,8 @@
 export const ELEMENTS = {
+    inputName: 'input[ng-model*=username]',
     inputEmail: 'input[ng-model*=email]',
-    inputSenha: 'input[ng-model*=password]',
-    butoonSubmit: 'button.btn-primary',
+    inputPassword: 'input[ng-model*=password]',
+    buttonSubmit: 'button.btn-primary',
     navYourFeed: 'a[ng-class*=feed]',
     navGlobalFeed: 'a[ng-class*=all]',
     navAppName: 'a[ng-bind*=appName]',
