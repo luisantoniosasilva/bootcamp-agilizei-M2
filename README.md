@@ -2,9 +2,8 @@
 Este projeto foi realizado como proposta ao segundo desafio do Agilizei Bootcamp.
 Você também pode estar localizando este bootcamp através da página oficial https://agilizei.com/agilizei-bootcamp/
 
-## GitHub Page
+## [Azure Pipeline](https://dev.azure.com/luisantoniosasilva/bootcamp-agilizei-M2/_build/results?buildId=7&view=ms.vss-test-web.build-test-results-tab)
 
-https://luisantoniosasilva.github.io/bootcamp-agilizei-desafio1/
 
 ## Tecnologias utilizadas
  - [Visual Studio Code 1.52.1](https://code.visualstudio.com)
